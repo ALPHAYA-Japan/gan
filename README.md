@@ -105,7 +105,7 @@ If you wanna try new dataset, please make sure you make it in the following way:
 The `loader.py` file will automatically upload all images and their labels (category_i folders)
 
 ## Acknowledgements
-This implementation has been based on the work of the great giants:
+This implementation has been based on the work of the great following repositories:
 - https://github.com/hwalsuklee/tensorflow-generative-model-collections
 - https://github.com/wiseodd/generative-models
 - https://github.com/eriklindernoren/Keras-GAN
